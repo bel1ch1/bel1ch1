@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bel1ch1
-- 👀 I’m interested in computer vision and ML
+- 👀 I’m interested in computer vision and ML/DL. Simply put Data science
 
 
 <!---
