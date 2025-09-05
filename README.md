@@ -4,4 +4,4 @@
 
 [![andreyBELL's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=andreyBELL&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
-### My Certificates: [](bel1ch1/my_certificates.md)
+### My Certificates: [---](bel1ch1/my_certificates.md)
